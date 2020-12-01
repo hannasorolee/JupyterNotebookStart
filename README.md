@@ -1,4 +1,4 @@
-# Simple_Plots_and_World_Population_Comparison
+# Intro to Data Analysis/Visualization
 Started to try out Jupyter Notebook using Pandas/Matplotlib/Numpy
 
 1) Plotting simple columns with few rows
